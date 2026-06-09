@@ -45,3 +45,5 @@ Random Forest is close to XGBoost but slightly lower in ROC-AUC.
 
 
 ### 6.Deployment
+
+In the deployment phase, several practical actions can be undertaken, such as integrating the trained model into the company’s operational systems (e.g., CRM platforms), developing an API for real-time churn prediction, designing management dashboards to monitor high-risk customers, defining optimal decision thresholds aligned with retention strategies, continuously monitoring model performance in production (model monitoring), periodically retraining the model with new data, and detecting potential performance degradation (model drift). Additionally, automated retention campaigns could be triggered based on predicted churn probabilities. However, since the primary focus of this project is statistical analysis and modeling, and our role is limited to that of a statistical analyst, we do not proceed with the operational implementation aspects of the deployment phase at this stage.
