@@ -8,3 +8,10 @@ Impact: Reducing churn could improve revenue and customer loyalty.
 Notes: Clear problem definition and business relevance. Good job linking churn to potential business outcomes.
 
 
+### 2.Data Understanding
+
+Dataset: Customer Churn.csv with 3,150 rows and 14 columns.
+
+Target Variable: Churn (0 = no churn, 1 = churn)
+
+Data Types: Mostly numeric; no missing values.
