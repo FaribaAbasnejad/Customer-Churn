@@ -39,3 +39,9 @@ XGBoost outperforms others in all metrics, particularly ROC-AUC.
 SVM shows high recall but low precision (likely overpredicts churn).
 
 Random Forest is close to XGBoost but slightly lower in ROC-AUC.
+
+
+### 5.Evaluation
+
+
+### 6.Deployment
