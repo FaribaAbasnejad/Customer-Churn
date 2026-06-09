@@ -32,9 +32,11 @@ OneHotEncoder for categorical features (none in dataset, so this is effectively 
 
 ### 4.Modeling
 
-Pipeline ready for modeling.
-
 Observations:
+XGBoost outperforms others in all metrics, particularly ROC-AUC.
+SVM shows high recall but low precision (likely overpredicts churn).
+Random Forest is close to XGBoost but slightly lower in ROC-AUC.
+
 
 Preprocessing is clean; scaling is essential for SVM and Logistic Regression.
 
