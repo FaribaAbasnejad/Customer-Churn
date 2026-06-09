@@ -29,6 +29,9 @@ StandardScaler for numeric features.
 
 OneHotEncoder for categorical features (none in dataset, so this is effectively skipped).
 
+
+### 4.Modeling
+
 Pipeline ready for modeling.
 
 Observations:
